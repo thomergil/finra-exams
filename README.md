@@ -39,7 +39,7 @@ My gratitude goes to [Brian Marks](https://www.linkedin.com/in/brian-marks-97640
 11. Come up with stupid mnemonics as much as possible, write them down in that document. Can't remember that 506(b) rather than 506(c) involves 35 non-accredited investors? How about this: "you have to BE 35 years-old to become President". Can't remember that it's a ".Z" modifier for late trade reporting? "Zzz" is for sleepy slow pokes. No mnemonic is too silly or too far fetched if it works for you.
 12. If you can afford it, or if your sponsor is willing to pay for it: practice against multiple question banks. Each online training course has a different focus, a different style of questions. (More on that below.)
 13. When the exam gets closer, do "benchmark" or "final" or "diagnostic" exams that these training sites offer. Afterwards, go over your answers, even your correct ones, and understand what you got wrong, why you got it wrong, make additional notes in your document. Dive into the stuff you're unsure about. If you have a coach, discuss it with them.
-14. Print out the summary notes and your own notes, and use a highlighter to mark the topics that you feel you keep forgetting or that continues to surprise you. Keep going over those up until exam time.
+14. Print out the summary notes and your own notes, and use a highlighter to mark the topics that you feel you keep forgetting or that continue to surprise you. Keep going over those up until exam time.
 15. Don't panic during the exam. I did in one of them. It didn't help me, and I passed anyway. The exams are designed to mess with your mind and confidence. Don't let FINRA do it to you.
 
 ### Online Training Courses
