@@ -6,7 +6,7 @@ My name is [Thomer Gil](https://www.linkedin.com/in/thomer-gil/). I am a softwar
 
 I have no formal training in finance, I never worked on or near Wall Street. But I found myself having to pass the [SIE](https://www.finra.org/registration-exams-ce/qualification-exams/securities-industry-essentials-exam), [Series 7](https://www.finra.org/registration-exams-ce/qualification-exams/series7), and [Series 24](https://www.finra.org/registration-exams-ce/qualification-exams/series24) exams. I passed all three within 4 months, each on my first try. It was among the hardest professional experiences I've had to go through.
 
-I was often told this should be easy for me because I went to [MIT](https://www.mit.edu/), but nothing could be further from the truth. It was brutal: for me, most exams I did at MIT were easier than these FINRA exams.
+I was often told this should be easy for me because I went to [MIT](https://www.mit.edu/), but nothing could be further from the truth. It was brutal: most exams I did at MIT were easier for me than these FINRA exams.
 
 This document shares some insights I gained along the way.
 
