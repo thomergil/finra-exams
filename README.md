@@ -18,7 +18,7 @@ My gratitude goes to [Brian Marks](https://www.linkedin.com/in/brian-marks-97640
 
 **Don't read the book**: it's impossible, especially when it means nothing to you, which was the case for me. The book is reference material, not reading material.
 
-**Don't study to understand the material**: I first naively started creating my own cliff notes based on reading materials and video lectures. While that is an excellent approach to thoroughly understand a subject matter, it’s the wrong approach to pass these exams. You are welcome to actually study the subject matter at any other time, but you are not asked to understand the subject matter. You are asked to pick the right answer between 4 options roughly 70% of the time. That's what you need to study for.
+**Don't study to understand the material**: I first naively started creating my own cliff notes based on reading materials and video lectures. While that is an excellent approach to thoroughly understand a subject, it's the wrong approach to pass these exams. You are welcome to actually study the subject matter at any other time, but for these exams you are not asked to understand it. You are asked to pick the right answer between 4 options roughly 70% of the time. That's what you need to study for.
 
 **Don't use online flash cards**: I found them to be infuriating and useless.
 
